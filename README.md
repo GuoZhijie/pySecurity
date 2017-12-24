@@ -1,4 +1,4 @@
-##python系列教程(翻译)
+## python系列教程(翻译)
 
 ```
 ~# python
